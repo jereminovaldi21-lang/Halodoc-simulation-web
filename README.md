@@ -98,14 +98,3 @@ make clean
 | 3 | Load              | Load otomatis saat program mulai dijalankan dan saat di menu utama  | ✅ |
 | 4 | Save              | Menyimpan Perubahan dengan perintah  | ✅ |
 | 5 | Exit              | Memberikan opsi save saat keluar program  | ✅ |
-
-
-## Anggota Kelompok dan Pembagian Tugas
-| No | NIM | Nama | Tugas |
-| -------- | -------- | -------- | -------- |
-| 1 | Nathanael Hans Limas          | 13225037  | Implementasi command loop dan parser perintah, pengaturan alur menu utama, membantu debugging dan integrasi, serta menulis laporan  |
-| 2 | Jordan Berlian Widanarta      | 13225039  | Implementasi fitur Web Graph, mengelola dan validasi linked pages, membantu pengujian openlinked, serta menulis laporan  |
-| 3 | Faishal Ananda Haris          | 13225055  | Implementasi fitur Page Management, termasuk add_page, edit_page, dan delete_page, mengelola halaman web dan validasi URL, serta menulis laporan  |
-| 4 | Alexander Abie Kuntara        | 13225097  | Implementasi Download Manager berbasis Queue, pembuatan file hasil download, serta menulis laporan  |
-| 5 | Zaidan Dzaky Ibrahim	        | 13225107  | Implementasi fitur tab dan navigasi browser, termasuk newtab, closetab, nexttab, prevtab, back, forward, dan view_tab_history, serta menulis laporan  |
-| 6 | Jeremy Novaldy Eka Putra      | 18325035  | Implementasi fitur Load dan Save, pembacaan dan penulisan file CSV/TXT, serta menulis laporan  |
